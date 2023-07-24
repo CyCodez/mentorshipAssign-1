@@ -7,3 +7,4 @@ This challenge involves
   (1 to destination) where destination is a number greater than 1, and destination is inclusive when calculating the sum
 
 -Writing test using jest to ensure that the functions behave as expected.
+use npm install jest --save-dev or yarn install jest --save-dev
